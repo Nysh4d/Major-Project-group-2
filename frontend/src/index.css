@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --gradient-brand: linear-gradient(90deg,#2563eb,#14b8a6,#7c3aed,#22c55e);
+}
+
+.gradient-text {
+  background: var(--gradient-brand);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.card-elevated {
+  @apply rounded-[20px] shadow-lg transition-all duration-300;
+}
+
+.card-elevated:hover {
+  @apply -translate-y-2 shadow-2xl;
+}
+
+html {
+  scroll-behavior: smooth;
+}
