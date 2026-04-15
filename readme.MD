@@ -42,5 +42,9 @@ Please follow the below steps to run this project.
 NA
 
 ### References
-- [https://kaggle.com/dataset1](https://kaggle.com/dataset1)
-- [https://kaggle.com/dataset1](https://kaggle.com/dataset1)
+- https://www.researchgate.net/publication/384206576_Code_Comprehension_Review_and_Large_Language_Models_Exploration 
+- https://www.researchgate.net/publication/379803265_Using_an_LLM_to_Help_With_Code_Understanding 
+- https://www.researchgate.net/publication/388883443_CODESIM_Multi-Agent_Code_Generation_and_Problem_Solving_through_Simulation-Driven_Planning_and_Debugging 
+- https://www.researchgate.net/publication/384206576_Code_Comprehension_Review_and_Large_Language_Models_Exploration 
+- https://www.researchgate.net/publication/379803265_Using_an_LLM_to_Help_With_Code_Understanding 
+- https://www.researchgate.net/publication/388883443_CODESIM_Multi-Agent_Code_Generation_and_Problem_Solving_through_Simulation-Driven_Planning_and_Debugging
